@@ -1,0 +1,15 @@
+G:\stud\stud\Потоки\Lab1\bin\Debug\net7.0\Lab1.exe
+G:\stud\stud\Потоки\Lab1\bin\Debug\net7.0\Lab1.deps.json
+G:\stud\stud\Потоки\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+G:\stud\stud\Потоки\Lab1\bin\Debug\net7.0\Lab1.dll
+G:\stud\stud\Потоки\Lab1\bin\Debug\net7.0\Lab1.pdb
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.csproj.AssemblyReference.cache
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.dll
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.pdb
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+G:\stud\stud\Потоки\Lab1\obj\Debug\net7.0\ref\Lab1.dll
