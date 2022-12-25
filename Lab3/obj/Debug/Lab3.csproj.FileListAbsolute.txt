@@ -1,0 +1,10 @@
+G:\stud\stud\Потоки\Lab3\bin\Debug\Lab3.exe.config
+G:\stud\stud\Потоки\Lab3\bin\Debug\Lab3.exe
+G:\stud\stud\Потоки\Lab3\bin\Debug\Lab3.pdb
+G:\stud\stud\Потоки\Lab3\bin\Debug\MPI.dll
+G:\stud\stud\Потоки\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+G:\stud\stud\Потоки\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+G:\stud\stud\Потоки\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+G:\stud\stud\Потоки\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+G:\stud\stud\Потоки\Lab3\obj\Debug\Lab3.exe
+G:\stud\stud\Потоки\Lab3\obj\Debug\Lab3.pdb
